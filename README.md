@@ -4,7 +4,7 @@
 ---
 
 ###  About Me
-I’m currently a **3rd-year BSc CS student**
+I’m currently a **3rd-year BSc CS student**\n
 Currently learning **Full-Stack Python Development**
 Ask me about **C, C++, Core Java, SQL, HTML, CSS, JS, Bootstrap, Angular, Python**
 Building: **Firebase-based projects**, **Student Management System**, and more
