@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Siddhivinayak Narale</h1>
-<h3 align="center">🚀 3rd-Year BSc Computer Science Student | 🧠 Passionate about Software Development</h3>
+<h1 align="center">Hello , I'm Siddhivinayak Narale</h1>
+<h3 align="center">3rd-Year BSc Computer Science Student | Passionate about Software Development</h3>
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 I’m currently a **3rd-year BSc CS student**
-- 🌱 Currently learning **Full-Stack Python Development**
-- 💬 Ask me about **C, C++, Core Java, DSA, HTML, CSS, JS, Python**
-- 🛠️ Building: **Firebase-based projects**, **Student Management System**, and more
-- 🎯 Goals: To become a skilled **full-stack developer** and build real-world apps
-- 🏆 Hackathon participant | LeetCode & HackerRank solver
+###  About Me
+I’m currently a **3rd-year BSc CS student**
+Currently learning **Full-Stack Python Development**
+Ask me about **C, C++, Core Java, SQL, HTML, CSS, JS, Bootstrap, Angular, Python**
+Building: **Firebase-based projects**, **Student Management System**, and more
+Goals: To become a skilled **full-stack developer** and build real-world apps
+Hackathon participant | LeetCode & HackerRank solver
 
 ---
 
