@@ -48,13 +48,20 @@ Hackathon participant LeetCode and HackerRank solver
 
 ## 🌐 Reach Out
 
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sid.notserious?utm_source=qr)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhivinayak-narale-199836296)
-
-[![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddhivinayakqwe@gmail.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddhivinayakN)
+<p>
+  <a href="https://www.instagram.com/sid.notserious" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:siddhivinayakqwe@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Mail me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/siddhivinayak-narale-199836296" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/siddhivinayakN" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
 ---
 
