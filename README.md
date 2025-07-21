@@ -13,12 +13,12 @@ Hackathon participant LeetCode and HackerRank solver
 ---
 
 #### Learning Roadmap
-- **Python:** Core & Advanced (Tkinter, Turtle, Debugging, Sockets, Regex, Logging, OS)
+- **Python:** Core & Advanced 
 - **Databases:** MySQL, MongoDB
 - **Data Science:** NumPy, Pandas, Matplotlib
 - **Web Frameworks:** Django, Flask, REST APIs
 - **Frontend Tech:** HTML, CSS, JS, Bootstrap, Angular
-- **Tools:** Git & GitHub, Docker, Testing, AWS Basics
+- **Tools:** Git & GitHub
 
 ---
 
@@ -33,31 +33,28 @@ Hackathon participant LeetCode and HackerRank solver
 ![Angular](https://img.shields.io/badge/Angular-dc0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ### Backend / Other Skills
-![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ed8b00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-044F88?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Core%20Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Basics-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=api&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
 
 ---
 
 ## 🌐 Reach Out
 
-<p>
-  <a href="https://www.linkedin.com/in/siddhivinayak-narale-199836296">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:siddhivinayakqwe@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Mail Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/siddhivinayakN">
-    <img src="https://img.shields.io/badge/GitHub-Profile-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sid.notserious?utm_source=qr)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhivinayak-narale-199836296)
+
+[![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddhivinayakqwe@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddhivinayakN)
 
 ---
 
